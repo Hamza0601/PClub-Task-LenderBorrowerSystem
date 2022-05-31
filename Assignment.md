@@ -7,16 +7,19 @@ Enter the text:-
 Programming Club IIT Kanpur
 000009853731c622241599e44c6a4b2607f37dd29eaa15d8b92a33cdce06184e
 Nonce : 342207
-Time : 221.8972ms
+Time : 221.8972ms  
+
 2)
 Enter the text:-
 iitk
 00000bde24704b17d1531816354d01810b1e6f01b1ea38e0c53d5fc5f3bfd70a
 Nonce : 1217060
-Time : 700.9423ms
+Time : 700.9423ms  
+
 3)
 Enter the text:-
 Smoking is injurious to health
 00000023dba778886d3289e114e27ba638dbb190340e1bb77e23ad6d4a7209d4
 Nonce : 829232
-Time : 527.8385ms
+Time : 527.8385ms  
+
