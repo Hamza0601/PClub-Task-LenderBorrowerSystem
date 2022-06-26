@@ -11,9 +11,9 @@ In the Remix IDE , after setting the owner account deploy the contract. The list
 - mulDiv (pure function)
 - viewDues (view function):can only be used by the Owner of the contract
 From the account dropdown , you can change account to creditor for using reqLoan.  
-### Implementation of function getMaxAddress
+### Implementation of function getMaximumAddress
 Declared two state variables maximumAddress and maximumLoan
 Every time the function reqLoan is called , the value of maximumAddress and maximumLoan gets updated.
 The function returns the current value of maximumAddress
-### Implementation of function getMaxAddress2
+### Implementation of function getMaximumAddress2
 In the array containing addresses of creditors who called the reqLoan function, the getMaximumAddress2 function will iterate through the array and find the maximum every time it's called upon.
